@@ -1,0 +1,22 @@
+ol li{
+    color: darkcyan;
+}
+ul li{
+    color: #8b007f;
+    display: inline;
+}
+
+.CSE{
+    /* display: none; */
+    display:inline-block;
+    height: 200px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: #8b007f;
+    border: dotted #8b007f;
+}
+.blog{
+    background-color: burlywood;
+    box-shadow: 10px 10px 10px;
+}
